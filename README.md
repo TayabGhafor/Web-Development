@@ -15,11 +15,13 @@ Welcome to the **Web-Development** repository! 🎉 This repository is a compreh
 In this repository, you'll find a range of web development projects demonstrating different aspects of creating and maintaining websites and web applications. From frontend to backend components, these projects showcase how to integrate various technologies to build full-stack applications.
 
 <p align="center">
-  <a href="#🔑 Key Features">Key Features</a> •
+  <a href="# 🔑 Key Features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#🛠️ Technologies Used">Technologies</a> •
-  <a href="#🗣️ Languages Used">Languages</a> •
+  <a href="# 🛠️ Technologies Used">Technologies</a> •
+  <a href="# 🗣️ Languages Used">Languages</a> •
+  <a href="# 💲Support Me">Support Me</a>
 </p>
+<br/>
 
 ## 🔑 Key Features
 
@@ -30,10 +32,12 @@ In this repository, you'll find a range of web development projects demonstratin
 - **Database Integration** 💾: Understand how to use MongoDB for effective data storage and management.
 - **Styling Techniques** 🎨: Master modern CSS techniques including Flexbox, Grid, and responsive design principles.
 - **API Integration** 🔗: Learn how to integrate third-party APIs into your projects.
+<br/>
 
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+<br/>
 
 ```bash
 # Clone this repository
@@ -50,6 +54,7 @@ $ npm install
 # Run the app
 $ npm start
 ```
+<br/>
 
 ## 🛠️ Technologies Used
 
@@ -62,6 +67,7 @@ $ npm start
 - **React.js** ⚛️: A JavaScript library for building dynamic user interfaces.
 - **MongoDB** 🗄️: A NoSQL database for data storage and management.
 - **Git** 🧩: For version control and collaboration.
+<br/>
 
 ## 🗣️ Languages Used
 
@@ -71,8 +77,10 @@ $ npm start
 - **Node.js** 🖥️: JavaScript runtime for server-side development.
 - **React.js** ⚛️: JavaScript library for building dynamic user interfaces.
 - **MongoDB** 🗃️: NoSQL database for data storage.
-
+<br/>
 <!-- Buy Me a Ko-fi Section -->
+## 💲Support Me
+
 <div align="center">
 <a href='https://ko-fi.com/tayabmalik' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
