@@ -3,7 +3,6 @@
 <br/>
 <!-- Banner -->
 <div align="center">
-
+<img alt="Coder GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="230" width="850px" />
 </div>
-(https://github.com/user-attachments/assets/efb09e15-bf3e-41d4-8b99-ec50d955df07)
 
