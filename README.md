@@ -72,6 +72,12 @@ $ npm start
 - **React.js** ⚛️: JavaScript library for building dynamic user interfaces.
 - **MongoDB** 🗃️: NoSQL database for data storage.
 
+<!-- Buy Me a Ko-fi Section -->
+<div align="center">
+<a href='https://ko-fi.com/tayabmalik' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+<br/>
+
 - Feel free to explore the repository, check out the projects, and contribute to the development of these web applications. If you have any questions or suggestions, don't hesitate to open an issue or pull request. 😄
 
 Happy coding! 🎉
