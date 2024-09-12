@@ -31,3 +31,45 @@ In this repository, you'll find a range of web development projects demonstratin
 - **Styling Techniques** 🎨: Master modern CSS techniques including Flexbox, Grid, and responsive design principles.
 - **API Integration** 🔗: Learn how to integrate third-party APIs into your projects.
 
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/amitmerchant1990/electron-markdownify
+
+# Go into the repository
+$ cd electron-markdownify
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
+
+## 🛠️ Technologies Used
+
+- **Visual Studio Code** 💻: The primary code editor used for developing the projects.
+- **HTML5** 🏗️: For creating the structure of web pages.
+- **CSS3** 🎨: For styling and layout of web pages.
+- **JavaScript** 🖥️: For adding interactivity to web pages.
+- **Node.js** 🕵️‍♂️: For server-side scripting and building backend services.
+- **Express.js** 🚀: A web framework for Node.js to handle server-side logic.
+- **React.js** ⚛️: A JavaScript library for building dynamic user interfaces.
+- **MongoDB** 🗄️: A NoSQL database for data storage and management.
+- **Git** 🧩: For version control and collaboration.
+
+## 🗣️ Languages Used
+
+- **HTML** 🏷️: Markup language for structuring web content.
+- **CSS** 🎨: Stylesheet language for designing web pages.
+- **JavaScript** 💻: Programming language for adding interactivity to web pages.
+- **Node.js** 🖥️: JavaScript runtime for server-side development.
+- **React.js** ⚛️: JavaScript library for building dynamic user interfaces.
+- **MongoDB** 🗃️: NoSQL database for data storage.
+
+- Feel free to explore the repository, check out the projects, and contribute to the development of these web applications. If you have any questions or suggestions, don't hesitate to open an issue or pull request. 😄
+
+Happy coding! 🎉
