@@ -1,11 +1,11 @@
 <!-- Visitors show banner -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TayabGhafor.Web-Development" />
 <br/>
-<!-- Banner -->
-<div align="center">
-<a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA">
-</div>
-  
+<!-- Welcome Section -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Malik+Tayab!;" />
+</h1>
+
 ## 🌐 Web-Development
 
 Welcome to the **Web-Development** repository! 🎉 This repository is a comprehensive collection of resources and projects related to web development. It contains a variety of examples and templates to help you kickstart your journey in building modern web applications. 🚀
