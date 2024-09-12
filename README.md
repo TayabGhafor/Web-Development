@@ -14,15 +14,6 @@ Welcome to the **Web-Development** repository! 🎉 This repository is a compreh
 
 In this repository, you'll find a range of web development projects demonstrating different aspects of creating and maintaining websites and web applications. From frontend to backend components, these projects showcase how to integrate various technologies to build full-stack applications.
 
-<p align="center">
-  <a href="# 🔑 Key Features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="# 🛠️ Technologies Used">Technologies</a> •
-  <a href="# 🗣️ Languages Used">Languages</a> •
-  <a href="# 💲Support Me">Support Me</a>
-</p>
-<br/>
-
 ## 🔑 Key Features
 
 - **Responsive Design** 📱: Learn how to create websites that adapt to any device or screen size.
@@ -79,6 +70,7 @@ $ npm start
 - **MongoDB** 🗃️: NoSQL database for data storage.
 <br/>
 <!-- Buy Me a Ko-fi Section -->
+
 ## 💲Support Me
 
 <div align="center">
