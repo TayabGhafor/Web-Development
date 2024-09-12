@@ -14,3 +14,9 @@ Welcome to the **Web-Development** repository! 🎉 This repository is a compreh
 
 In this repository, you'll find a range of web development projects demonstrating different aspects of creating and maintaining websites and web applications. From frontend to backend components, these projects showcase how to integrate various technologies to build full-stack applications.
 
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+</p>
